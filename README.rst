@@ -1,5 +1,5 @@
-Robot Framework Dos and Dont's
-==============================
+Robot Framework Dos and Dont Slides
+===================================
 
 A slide set that demonstrates general guidelines how to create good
 `Robot Framework <http://robotframework.org>`__ test cases. Shows both
